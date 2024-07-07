@@ -10,6 +10,6 @@ public class SoultionEight{
 		int b = 20;
 		int c = a * b;
 
-		System.out.print("product of  of the varabls is " + c);
+		System.out.print("product of  of the varab" + c);
 		}
 	}

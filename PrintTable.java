@@ -4,7 +4,7 @@ public class PrintTable{
 	
 	int counter ;
 	
-	Math.pow = (a,b);
+	 doubMath.pow = (a,b);
 	System.out.println(a , b);
 	
 	for(counter =1; counter <= 5; counter ++){
