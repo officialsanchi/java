@@ -1,0 +1,30 @@
+import java.util.Scanner;
+public class Bool{
+	public static main void (String [] args){
+
+		Scanner input = new Scanner (System.in);
+		
+		System.out.print("Enter number");
+		 
+		int number = input.nextInt();
+
+		chart number1 = one;
+		chart number2 = two;
+		chart number3 = three;
+		chart number4 = four;
+		chart number5 = five;
+		chart number6= six;
+		chart number7 = seven;
+		chart number8 = eight;
+		chart number9= nine;
+		chart number10= ten;
+
+		if ( number1 > number10){
+			System.out.print(" ")} 
+
+
+		
+
+	
+
+}}

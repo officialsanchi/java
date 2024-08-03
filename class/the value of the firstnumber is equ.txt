@@ -1,0 +1,2 @@
+the value of the firstnumber is equal to the value of the secondnumber, therefore if the value of the fristnumber is equal to the value of the second number
+the value of the first number is not equal to the value of the secondnumber

@@ -1,0 +1,23 @@
+2.1
+a)left brace({) right brace(})
+b)if
+c)//
+d)space, character, newlines and tabs
+e)keywords
+f)main
+g)system.out.print, system.out.println, system.out.printf.
+2.2
+a)false, when a statement is commented the system ignores it
+b)true
+c)false, it don't recoinges it causeit's sensitive
+d)false
+e)false x,/,% have higer precedence than operators + and -
+f)false it is not valid but is be replaced with carmelcase,
+
+2.7
+a) COMMENT
+b)boolean
+c)division and remainder
+d)innermost
+e) variable
+ 

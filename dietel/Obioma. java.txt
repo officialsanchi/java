@@ -1,0 +1,3 @@
+public class Obioma {
+	public static void main (String [] args) {
+	System.out.print ("Is a software engineer \n in semicolon africa \n a village school at sabo yaba \n semi colon is a tech school");

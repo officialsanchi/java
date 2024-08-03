@@ -1,0 +1,44 @@
+ 1.4
+a)input units
+b)programming
+c)programming launage
+d)output unit
+e)arithemtic and logic unit
+f)arithmetic  logic unit alu.
+g) logic
+h) operating system unit
+i)machine lanuage
+j) memory unit
+1.5
+ajava
+b) java standrad edition, java enterprises edition and java micro edition
+c)fiber-optic communication
+d) assembler
+1.6
+
+a)edit. compile, load,verify, execute
+b flashcards/ quizlet
+c)class file
+d)emulator
+e)jvm's loader
+f)byetcode verifier
+1.7
+jit this a complier tool that helps to complier/ jre to run fast, without taken much time.
+1.8)
+object= which is the watch
+attributes= colour, watch is used for
+behaviours= 
+class= 
+inheriance= 
+  2)its the process of collecting information ( input), processess (compiling) it and gives us a result(output) 
+
+3) jdk and jre. jdk which means java development kit its the tools used for developing software or its where the softwares are been developed and jre java run-time enviroment this is can be also be known as the complier or the compiler tool where the data data collected are runned.
+4) No the computre is not too smart, because it collects information, or its runs or operate base on the information collected it functions on the input collected, it it was smart their will be no need for input, output process.
+5)
+chapter one for the " java how to programe "
+talks about computer programming lanuages and the tools which can be used to achieve, the programming lanuagae. the chapter further talks about java under type there are 3 types of java editior which is Java standard editior, java enterpires editior and java micro editior. 
+ Hardware and software, Hardwares are the physical things used to operate the compture or phones or tables or where the software will be storged While Software are the application which are builted into the hardware.
+The logical unit of the computre which inculed the input, output, memeory unit, centeral processing unit(CPU), arithmetic and logic unit(ALU).
+
+ 
+
